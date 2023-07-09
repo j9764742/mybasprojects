@@ -1,0 +1,5 @@
+console.log("Hello world routes of created for readfile");
+
+The content attached to the file will be append to the content of the input.txt and will be written in output.txt file 
+
+Date created Sun Jul 09 2023 20:03:53 GMT+0530 (India Standard Time)
